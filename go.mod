@@ -1,4 +1,4 @@
-module github.com/t8nax/hxlt-env
+module guthub.com/t8nax/hxlt-env/v2
 
 go 1.23.2
 
